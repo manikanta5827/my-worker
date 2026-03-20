@@ -33,9 +33,10 @@
 	],
 	"d1_databases": [
 		{
-			"binding": "my_app_db",
+			"binding": "DB",
 			"database_name": "my-app-db",
 			"database_id": "f5bd096b-0483-494d-ba74-d244786225b9",
+			"migrations_dir": "drizzle/migrations",
 			"remote": true
 		}
 	]
